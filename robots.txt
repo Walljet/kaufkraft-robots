@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /login/
+Disallow: /account/
+Allow: /
+
+Sitemap: https://kaufkraft.de/sitemap.xml
+
+# Easter Egg: Commodore 64 ASCII Art  
+#      **** COMMODORE 64 BASIC V2 ****  
+#  64K RAM SYSTEM  38911 BASIC BYTES FREE  
+# READY.  
+#
+#          _   _
+#         | | | |
+#      .-'| | | |`-.
+#     |  WLLJT  |  |  
+#     |_________|  |
+#     | .-"`'-. |  |
+#     | |  🛸 | |  |
+#     | |  🚀 | |  |
+#     | |_____| |  |
+#     |_________|__|
+#       [ C64 ]      
+#
+#  Explore & Innovate!
